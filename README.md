@@ -2,11 +2,9 @@
 Scripts to automate  
 
 
+# 🕶️ Ghost Timer — DemonLion Edition
 
-#GHOST Timer -DemonLion Edition
-**Ghost Timer** 
-is a stealth-mode automation script that activates full system Tor rounting for a choosen time period(min or hrs), then disables it automatically.This is your personal cloak -built for cyber operatives, ethical hackers, and digital ghosts.
-
+**Ghost Timer** is a stealth-mode automation script that activates full-system Tor routing for a chosen time period (minutes or hours), then disables it automatically. This is your personal cloak — built for cyber operatives, ethical hackers, and digital ghosts
 ## 🔥 Why This Exists
 
 In high-stakes operations, staying cloaked **forever** isn't always necessary — sometimes, you need to vanish for **exactly 15 minutes**, complete your recon, then reappear clean.
